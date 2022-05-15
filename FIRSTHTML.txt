@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1><b><i><center><u>APPLICATION FOR LEAVE</u><center></i></b></h1>
+<hr></hr>
+<body style="background-color:lightblue"text="purple">
+<h2><b>To<br>The Principal<br>S.B Jain Institute of Technology, Management and Research</b></h2>
+<h2><b>Date-13/05/2022</b></h2>
+<h2><b>Subject-Application for leave of Absence.</b></h2>
+<h2>Respected Sir,<br> I am Sujalsingh Bais Student of (AIML) D2 Batch.I would like to inform you that I cannot attend college on<br>
+14 May 2022 due to my Bank related Work which is to be done on 14th May itself.<br>
+Therefore, I request you kindly grant me a leave of absence for one day. And I will continue my classes from 15 May 2022.</h2>
+<h2>Yours faithfully<br>
+sujalsingh Bais<br>
+Batch D2(AIML)<br>
+Roll No.AM21024</h2>
+<hr></hr>
+<marquee><b><h2>THANKYOU</h2></b></marquee> 
+</body>
+</html>
